@@ -7,8 +7,5 @@ int main() {
     std::string string;
     std::cin >>string;
     std::cout << "Hello, World!" << a << " ->->" << string << std::endl;
-
-
-    
     return 0;
 }
